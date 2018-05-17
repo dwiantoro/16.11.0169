@@ -1,0 +1,6 @@
+HTML (Hyper Text Mark Language)? bukan bahasa pemograman;
+melainkan bahasa mark up/penandaan.
+</> disebut tag html
+
+lalalalalalalalala
+
